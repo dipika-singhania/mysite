@@ -1,0 +1,3 @@
+[submodule "Articles"]
+	path = Articles
+	url = git://github.com/dipika-singhania/Articles
